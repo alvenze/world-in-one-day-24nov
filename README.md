@@ -35,7 +35,8 @@ in the cream-and-navy broadsheet format of this series' winning editions.
 Every story is real reporting from Tuesday 24 November 2026 (or the Monday
 wire cycle it belongs to), cross-checked across at least two outlets where
 possible and labelled on the page when it rests on one. Nothing is invented,
-and nothing from another day is passed off as today's.
+and nothing from another day is passed off as today's. The full
+story-by-story source list is in `SOURCES.md`.
 
 ## How it runs
 
